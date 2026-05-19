@@ -7,20 +7,26 @@
 
 <br/>
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://your-live-demo-link-here)
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYWNkNGNmMmQtNGE2Ny00NzM1LWI0ZWEtZTAyMDBiODUyY2NlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 > **👆 Click above to view the interactive dashboard live on Power BI Service**
 
----
+## 🖼️ Dashboard Preview
+### Business Performance Overview
 <img width="1438" height="804" alt="Screenshot 2026-05-19 142904" src="https://github.com/user-attachments/assets/6ee343ae-3524-4d97-a601-101dddf07c5f" />
 
+ ### Product and Sales Analysis
+ 
 <img width="1441" height="811" alt="Screenshot 2026-05-19 142928" src="https://github.com/user-attachments/assets/02efe17b-1e27-4166-912c-0e93c8622895" />
+
+### Customer Behaviour Analysis
 
 <img width="1451" height="819" alt="Screenshot 2026-05-19 142954" src="https://github.com/user-attachments/assets/7d0c5575-b579-423f-a52d-d7f0fa7228f1" />
 
+### Regional and Store Revenue Analysis 
+
 <img width="1438" height="810" alt="Screenshot 2026-05-19 143026" src="https://github.com/user-attachments/assets/57ba713c-02ec-44e4-a7ba-5cd370c18c95" />
 
-> A multi-page interactive Power BI dashboard providing a 360° view of business performance — from executive KPIs to regional store analysis.
 
 ---
 
